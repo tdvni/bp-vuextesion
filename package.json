@@ -1,0 +1,31 @@
+{
+  "name": "bp-vuextesion",
+  "version": "0.0.1",
+  "description": "BPassword extension",
+  "main": "ci/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdvni/bp-vuextesion.git"
+  },
+  "keywords": [
+    "Vue",
+    "Vuex",
+    "vue-i18n",
+    "vue-router"
+  ],
+  "author": "Vni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tdvni/bp-vuextesion/issues"
+  },
+  "homepage": "https://github.com/tdvni/bp-vuextesion#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  }
+}
