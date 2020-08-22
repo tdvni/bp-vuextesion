@@ -1,7 +1,7 @@
 {
   "name": "bp-vuextesion",
   "version": "0.0.1",
-  "description": "BPassword extension",
+  "description": "BPasswordX",
   "main": "ci/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,6 +26,15 @@
     "vue": "^2.6.12"
   },
   "devDependencies": {
-    "webpack": "^4.44.1"
+    "babel-loader": "^8.1.0",
+    "copy-webpack-plugin": "^6.0.3",
+    "css-loader": "^4.2.1",
+    "ejs": "^3.1.5",
+    "file-loader": "^6.0.0",
+    "mini-css-extract-plugin": "^0.10.0",
+    "sass-loader": "^9.0.3",
+    "vue-loader": "^15.9.3",
+    "webpack": "^4.44.1",
+    "webpack-extension-reloader": "^1.1.4"
   }
 }
